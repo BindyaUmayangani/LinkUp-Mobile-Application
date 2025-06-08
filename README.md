@@ -34,9 +34,9 @@ In Sri Lanka, information about tech events is often scattered across social med
 
 ## 📈 Future Enhancements
 
-🧠 AI-based Event Recommendations
-💬 In-App Chat & Networking Tools
-📊 Analytics Dashboard for Organizers
-🌐 Offline Mode for Event Viewing
-🎟️ Third-party Ticketing Platform Integration
-🏆 Gamification – Points, Badges & Leaderboards
+🧠 AI-based Event Recommendations  
+💬 In-App Chat & Networking Tools  
+📊 Analytics Dashboard for Organizers  
+🌐 Offline Mode for Event Viewing  
+🎟️ Third-party Ticketing Platform Integration  
+🏆 Gamification – Points, Badges & Leaderboards  
