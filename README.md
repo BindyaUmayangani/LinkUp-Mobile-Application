@@ -10,15 +10,15 @@ In Sri Lanka, information about tech events is often scattered across social med
 
 ## ✨ Key Features
 
-📅 Event Listings – Browse tech events like meetups, workshops, and seminars
-📍 Location-Based Suggestions – Personalized recommendations using OpenMap
-🔔 Push Notifications – Real-time alerts for new events and updates
-🗓️ Google Calendar Integration – Sync upcoming events with your schedule
-👤 User & Organizer Roles – Role-based dashboards for different needs
-📝 Event Management – Create, update, and remove events
-🔎 Event Search & Filtering – Search by city, type, and category
-⭐ Bookmark Events – Save events for later reference
-💬 Ratings & Reviews – Post feedback on events you attended
+📅 Event Listings – Browse tech events like meetups, workshops, and seminars  
+📍 Location-Based Suggestions – Personalized recommendations using OpenMap  
+🔔 Push Notifications – Real-time alerts for new events and updates  
+🗓️ Google Calendar Integration – Sync upcoming events with your schedule  
+👤 User & Organizer Roles – Role-based dashboards for different needs  
+📝 Event Management – Create, update, and remove events  
+🔎 Event Search & Filtering – Search by city, type, and category  
+⭐ Bookmark Events – Save events for later reference  
+💬 Ratings & Reviews – Post feedback on events you attended  
 📄 Profile & About Pages – Manage your info and learn about the app
 
 ## 🛠️ Tech Stack
